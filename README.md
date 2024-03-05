@@ -192,6 +192,7 @@ CB:Center back
 RCB:Right center back
 
 ## EXPLOTARY DATA ANALYSIS
+![180657249-f5771c3f-32eb-416d-b0cc-9f910d583bc3](https://github.com/AbhishekDighule/FIFA-20-PROJECT/assets/145597070/dc4e9805-2c8d-44d1-8c33-9da56d6cc56d)
 
 
 
