@@ -193,10 +193,12 @@ RCB:Right center back
 
 ## EXPLOTARY DATA ANALYSIS
 ### 1.TOP 10 NATIONALITY PLAYER
+
 ![180657249-f5771c3f-32eb-416d-b0cc-9f910d583bc3](https://github.com/AbhishekDighule/FIFA-20-PROJECT/assets/145597070/dc4e9805-2c8d-44d1-8c33-9da56d6cc56d)
 
 ### 2.TOP 10 CLUB PLAYER
 
+![180657271-6dee3b14-c8c3-4157-a4ec-577868e14a65](https://github.com/AbhishekDighule/FIFA-20-PROJECT/assets/145597070/2733caff-a9cd-457f-9389-d1e9762ea036)
 
 ### 3.TEAM POSITION IN TOP 10
 
