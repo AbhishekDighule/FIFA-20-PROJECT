@@ -164,7 +164,7 @@ GOALKEEPING POSITIONING:A Positioning of player to save the goal.
 
 GOALKEEPING REFLEX:The reflex of goalkeeper and players.
 
-THE REMAINING FEATURE IS THE ABBREVATION OF FOOTBALL POSITION SCORE:
+### THE REMAINING FEATURE IS THE ABBREVATION OF FOOTBALL POSITION SCORE:
 LS:Long snapper or left striker.
 ST:Striker
 RS:Right striker
