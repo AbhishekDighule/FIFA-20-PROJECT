@@ -1,7 +1,8 @@
 # FIFA-20-PROJECT
 FIFA 20 is a football simulation video game published by Electronic Arts as part of the FIFA series. It is the 27th installment in the FIFA series, and was released on 27 September 2019 for Microsoft Windows, PlayStation 4, Xbox One, and Nintendo Switch.
 
-![FIFA_20_logo](https://github.com/AbhishekDighule/FIFA-20-PROJECT/assets/145597070/b073cd39-0128-413b-af93-823512e16598)
+![dgcj5vm-85c50119-47fd-4728-835e-f3c5f97a1812](https://github.com/AbhishekDighule/FIFA-20-PROJECT/assets/145597070/8f52de07-a89f-4448-ba19-77bed95384a2)
+
 
 
 ## BUISNESS CASE: WITH THE FIFA20 DATASET WE NEED TO CLUSTER THE PLAYER BY THEIR SKILL INTO CERTAIN GROUP
