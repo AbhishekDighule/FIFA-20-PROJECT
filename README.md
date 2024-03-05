@@ -208,19 +208,19 @@ RCB:Right center back
 
 
 ## DATA PROCESSING & FEATURE ENGINEERING
-Impute Missing value with median because feature is not normal distributed
-Handling categorical data with mannual encoding
-Handling outlier with Empherical rule and IQR.
-Scaling the data with the help of min-max scaler
+* Impute Missing value with median because feature is not normal distributed
+* Handling categorical data with mannual encoding
+* Handling outlier with Empherical rule and IQR.
+* Scaling the data with the help of min-max scaler
 ## FEATURE SELECTION
-Drop unique and constant column
-Remove highly correalted feature, In this data lots of highly correlated feature is available.
-Their is no duplicate is present.
+* Drop unique and constant column
+* Remove highly correalted feature, In this data lots of highly correlated feature is available.
+* Their is no duplicate is present.
 At last apply PCA to reduce the dimension of feature.
 ## MODEL CREATION AND EVALUATION
-He we are use K-means algorithm to make cluster/group.
-With 3 cluster sillhoutte score is 0.61
-With 5 cluster sillhoutte score is 0.50
+* He we are use K-means algorithm to make cluster/group.
+* With 3 cluster sillhoutte score is 0.61
+* With 5 cluster sillhoutte score is 0.50
 
 
 
